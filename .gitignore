@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+*.moved-aside
+*.xcuserstate
+xcuserdata/
+
+# Tuist generated
+Derived/
+
+# Swift Package Manager
+.build/
+*.resolved
+
+# Pods (if ever used)
+Pods/
