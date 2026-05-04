@@ -20,3 +20,6 @@ Derived/
 
 # Pods (if ever used)
 Pods/
+.claude/
+Tools/
+idea_mentor/
