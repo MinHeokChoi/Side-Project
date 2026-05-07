@@ -21,5 +21,7 @@ Derived/
 # Pods (if ever used)
 Pods/
 .claude/
+CLAUDE.md
 Tools/
 idea_mentor/
+
